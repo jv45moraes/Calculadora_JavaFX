@@ -65,7 +65,7 @@ public class controllerCalculadora {
 	String val2 = "";
 	String operacao = "";
 
-
+	// Este método aciona o numero 0
 	@FXML
 	void action0(ActionEvent event) {
 
